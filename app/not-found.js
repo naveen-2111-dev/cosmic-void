@@ -101,8 +101,8 @@ export default function NotFound() {
         </p>
 
         <p className="text-lg mb-8 opacity-90 max-w-md mx-auto">
-          The page you're looking for has been swallowed by a black hole. But
-          don't panic! Our interdimensional octopus will teleport you home.
+          The page you re looking for has been swallowed by a black hole. But
+          don t panic! Our interdimensional octocat will teleport you home.
         </p>
 
         <Link href="/" passHref>
